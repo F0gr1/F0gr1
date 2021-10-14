@@ -1,4 +1,4 @@
-### Hi there 👋
+### git stars👋
 
 <!--
 **F0gr1/F0gr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
