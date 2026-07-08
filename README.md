@@ -98,10 +98,6 @@ simple architecture</pre>
   <img width="98%" src="https://streak-stats.demolab.com?user=F0gr1&theme=github-dark-blue&hide_border=true&background=0f172a&ring=60a5fa&fire=60a5fa&currStreakLabel=cbd5e1&sideLabels=94a3b8&dates=64748b&border_radius=10" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=F0gr1&theme=nord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
-</p>
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=110&section=footer" alt="footer" />
+  <sub>Building, learning, and shipping small improvements every day.</sub>
 </div>
