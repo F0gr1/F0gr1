@@ -76,26 +76,33 @@ simple architecture</pre>
 
 <p align="center">
   <img height="176" src="https://github-readme-stats.vercel.app/api?username=F0gr1&count_private=true&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=0f172a&title_color=cbd5e1&text_color=94a3b8&icon_color=60a5fa" alt="GitHub stats" />
-  <img height="176" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0gr1&layout=compact&count_private=true&theme=github_dark&hide_border=true&langs_count=8&bg_color=0f172a&title_color=cbd5e1&text_color=94a3b8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=F0gr1&theme=github_dark" alt="Repos per language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=F0gr1&theme=github_dark" alt="Most commit language" />
+  <img height="176" src="https://streak-stats.demolab.com?user=F0gr1&theme=github-dark-blue&hide_border=true&background=0f172a&ring=60a5fa&fire=60a5fa&currStreakLabel=cbd5e1&sideLabels=94a3b8&dates=64748b&border_radius=10" alt="GitHub streak" />
 </p>
 
 <p align="center">
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F0gr1&theme=github_dark" alt="Profile details" />
 </p>
 
-## 3D Contributions
+## Language Activity
 
 <p align="center">
-  <img width="98%" src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0gr1&layout=compact&count_private=true&theme=github_dark&hide_border=true&langs_count=8&card_width=420&bg_color=0f172a&title_color=cbd5e1&text_color=94a3b8" alt="Top languages by code size" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=F0gr1&theme=github_dark" alt="Most commit languages" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=F0gr1&theme=github-dark-blue&hide_border=true&background=0f172a&ring=60a5fa&fire=60a5fa&currStreakLabel=cbd5e1&sideLabels=94a3b8&dates=64748b&border_radius=10" alt="GitHub streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=F0gr1&theme=github_dark" alt="Repositories per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=F0gr1&theme=github_dark&utcOffset=9" alt="Productive time" />
+</p>
+
+## 3D Contribution Map
+
+<p align="center">
+  <img width="98%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="High-contrast 3D contribution graph" />
+</p>
+
+<p align="center">
+  <sub>Language split is shown above. The 3D map focuses on contribution volume and timing.</sub>
 </p>
 
 <div align="center">
