@@ -98,11 +98,11 @@ simple architecture</pre>
 ## 3D Contribution Map
 
 <p align="center">
-  <img width="98%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="High-contrast 3D contribution graph" />
+  <img width="98%" src="./profile-3d-contrib/profile-language.svg" alt="3D contribution graph colored by dominant language" />
 </p>
 
 <p align="center">
-  <sub>Language split is shown above. The 3D map focuses on contribution volume and timing.</sub>
+  <sub>Active blocks are colored by the dominant commit language for that day.</sub>
 </p>
 
 <div align="center">
